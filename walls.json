@@ -1,7 +1,7 @@
 {
   "walls": [
     {
-      "author": "Someone Designer",
+      "author": "Helmi",
       "url": "https://s-media-cache-ak0.pinimg.com/736x/25/99/06/259906d517d6440a60d0e426ced864f2.jpg",
       "name": "Wallpaper 1"
     },
@@ -19,6 +19,11 @@
       "author": "Someone Designer",
       "url": "http://www.lirent.net/wp-content/uploads/2014/10/Android-Lollipop-wallpapers-p-800x500.png",
       "name": "Wallpaper 4"
+    },
+    {
+      "author": "Someone Designer",
+      "url": "http://www.lirent.net/wp-content/uploads/2014/10/Android-Lollipop-wallpapers-p-800x500.png",
+      "name": "Wallpaper 5"
     }
   ]
 }
